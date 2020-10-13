@@ -1,4 +1,4 @@
-# hw_02_matplotlib
+# Using Matplotlib to Graph Economic Development
 
 For this assignment, I was interested in plotting different measurements of economic development. As an economics and international relations student, I am interested in evaluating different metrics of economic development and studying what aspects of development they can accurately capture.
 
